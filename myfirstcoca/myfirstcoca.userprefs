@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{55F92784-8F35-46C9-8DAB-5D2B026B2640}|Default">
+  <MonoDevelop.Ide.ItemProperties.myfirstcoca PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="myfirstcoca/ViewController.cs">
+    <Files>
+      <File FileName="myfirstcoca/Main.cs" Line="1" Column="1" />
+      <File FileName="myfirstcoca/ViewController.cs" Line="308" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

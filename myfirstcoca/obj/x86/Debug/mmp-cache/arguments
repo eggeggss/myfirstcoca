@@ -1,0 +1,21 @@
+# Version: 3.6.0.17 (d15-3: 4a279c9a)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/3.6.0.17/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/3.6.0.17/lib/mmp/mmp.exe \
+	/verbose \
+	/debug \
+	/output:/Users/luffymchd888/Projects/myfirstcoca/myfirstcoca/bin/Debug/ \
+	/name:myfirstcoca \
+	/profile:Xamarin.Mac,Version=v2.0,Profile=Mobile \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.12 \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/Users/luffymchd888/Projects/myfirstcoca/myfirstcoca/bin/Debug/myfirstcoca.exe \
+	/sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/luffymchd888/Projects/myfirstcoca/myfirstcoca/obj/x86/Debug/mmp-cache \
